@@ -1,0 +1,7 @@
+C:\Users\games\OneDrive\Documentos\c#-Alura\Atvd-POO-Classes\Atvd-POO-Classes\bin\Debug\Atvd-POO-Classes.exe.config
+C:\Users\games\OneDrive\Documentos\c#-Alura\Atvd-POO-Classes\Atvd-POO-Classes\bin\Debug\Atvd-POO-Classes.exe
+C:\Users\games\OneDrive\Documentos\c#-Alura\Atvd-POO-Classes\Atvd-POO-Classes\bin\Debug\Atvd-POO-Classes.pdb
+C:\Users\games\OneDrive\Documentos\c#-Alura\Atvd-POO-Classes\Atvd-POO-Classes\obj\Debug\Atvd-POO-Classes.csproj.AssemblyReference.cache
+C:\Users\games\OneDrive\Documentos\c#-Alura\Atvd-POO-Classes\Atvd-POO-Classes\obj\Debug\Atvd-POO-Classes.csproj.CoreCompileInputs.cache
+C:\Users\games\OneDrive\Documentos\c#-Alura\Atvd-POO-Classes\Atvd-POO-Classes\obj\Debug\Atvd-POO-Classes.exe
+C:\Users\games\OneDrive\Documentos\c#-Alura\Atvd-POO-Classes\Atvd-POO-Classes\obj\Debug\Atvd-POO-Classes.pdb
